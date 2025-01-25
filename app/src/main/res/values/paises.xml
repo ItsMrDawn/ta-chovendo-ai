@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="BR">&#127463;&#127479; Brasil</string>
+    <string name="JP">&#127471;&#127477; Japão</string>
+    <string name="GB">&#127468;&#127463; Reino Unido</string>
+    <string name="FR">&#127467;&#127479; França</string>
+    <string name="IT">&#127470;&#127481; Itália</string>
+    <string name="DE">&#127465;&#127466; Alemanha</string>
+    <string name="ES">&#127466;&#127480; Espanha</string>
+    <string name="CA">&#127464;&#127462; Canadá</string>
+    <string name="AU">&#127462;&#127482; Austrália</string>
+    <string name="RU">&#127479;&#127482; Rússia</string>
+    <string name="US">&#127482;&#127480; Estados Unidos</string>
+    <string name="CN">&#127464;&#127475; China</string>
+    <string name="IN">&#127470;&#127475; Índia</string>
+    <string name="MX">&#127474;&#127485; México</string>
+    <string name="AR">&#127462;&#127479; Argentina</string>
+    <string name="PT">&#127477;&#127481; Portugal</string>
+    <string name="EG">&#127466;&#127468; Egito</string>
+    <string name="GR">&#127468;&#127479; Grécia</string>
+    <string name="CH">&#127464;&#127469; Suíça</string>
+    <string name="SE">&#127480;&#127466; Suécia</string>
+    <string name="SA">&#127477;&#127466; Arábia Saudita</string>
+
+
+</resources>

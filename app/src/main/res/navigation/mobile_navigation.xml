@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_tempo">
+
+    <fragment
+        android:id="@+id/nav_pesq"
+        android:name="com.ucs.chove2.ui.pesq.PesqFragment"
+        android:label="@string/menu_pesq"
+        tools:layout="@layout/fragment_pesq" />
+
+    <fragment
+        android:id="@+id/nav_tempo"
+        android:name="com.ucs.chove2.ui.tempo.TempoFragment"
+        android:label="@string/menu_tempo"
+        tools:layout="@layout/fragment_tempo" />
+</navigation>

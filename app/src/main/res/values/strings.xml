@@ -1,0 +1,35 @@
+<resources>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <string name="menu_tempo">Tempo</string>
+    <string name="menu_pesq">Adicionar Cidade</string>
+
+
+    <string name="app_name">Tá Chovendo Aí</string>
+    <string name="action_settings">Configurações</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Clima atual</string>
+    <string name="second_fragment_label">Adicionar Cidade</string>
+    <string name="next">Próximo</string>
+    <string name="previous">Anterior</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="ok">Ok</string>
+    <string name="erro_internet">Não há conexão de internet</string>
+    <string name="minha_loc">Minha localização</string>
+    <string name="limpartudo">Apagar tudo</string>
+    <string name="pesquisar">Pesquisar</string>
+    <string name="zerartemps">Zerar temperaturas</string>
+    <string name="copyright">©2023 César Carpeggiani</string>
+    <string name="shake">Fui chacoalhado! Atualizando...</string>
+</resources>
